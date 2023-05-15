@@ -1,0 +1,14 @@
+{
+    "robot_num": 4,
+    "warranty_period": 6,
+    "world": [
+        "A B * * 4 4 * * E F",
+        "9 9 # 8 # # * # 4 *",
+        "8 9 # * 5 4 * # 3 *",
+        "G H * * 4 5 * * C D"
+    ],
+    "random_seed": 9,
+    "random_area": [
+        "0 0 -1 -1 2"
+    ]
+}
